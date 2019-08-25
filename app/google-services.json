@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3495059149",
+    "firebase_url": "https://stepanalyzer2.firebaseio.com",
+    "project_id": "stepanalyzer2",
+    "storage_bucket": "stepanalyzer2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3495059149:android:dfb627bbbf3cab74",
+        "android_client_info": {
+          "package_name": "com.functionality.stepanalyzer2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3495059149-k9c24dc1gd8klcm8rt37t3pb18hcbacc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.functionality.stepanalyzer2",
+            "certificate_hash": "fdace4caf14b1861f750664e16ed436c607bf630"
+          }
+        },
+        {
+          "client_id": "3495059149-l9um5gdmmugua3c0pii3earivcfhhit9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gxKsMg4rHWLbfas0IN6LFezVlAeR5SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3495059149-l9um5gdmmugua3c0pii3earivcfhhit9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
